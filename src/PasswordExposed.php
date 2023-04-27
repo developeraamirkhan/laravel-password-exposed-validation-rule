@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\LaravelPasswordExposedValidationRule;
+namespace developeraamirkhan\LaravelPasswordExposedValidationRule;
 
 use developeraamirkhan\LaravelPasswordExposedValidationRule\Factories\PasswordExposedCheckerFactory;
 use developeraamirkhan\PasswordExposed\Enums\PasswordStatus;
