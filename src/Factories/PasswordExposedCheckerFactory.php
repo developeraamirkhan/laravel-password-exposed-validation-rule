@@ -2,8 +2,8 @@
 
 namespace developeraamirkhan\LaravelPasswordExposedValidationRule\Factories;
 
-use DivineOmega\DOFileCachePSR6\CacheItemPool;
-use DivineOmega\PasswordExposed\PasswordExposedChecker;
+use developeraamirkhan\DOFileCachePSR6\CacheItemPool;
+use developeraamirkhan\PasswordExposed\PasswordExposedChecker;
 
 /**
  * Class PasswordExposedCheckerFactory.
