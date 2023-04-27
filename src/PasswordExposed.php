@@ -2,9 +2,9 @@
 
 namespace DivineOmega\LaravelPasswordExposedValidationRule;
 
-use DivineOmega\LaravelPasswordExposedValidationRule\Factories\PasswordExposedCheckerFactory;
-use DivineOmega\PasswordExposed\Enums\PasswordStatus;
-use DivineOmega\PasswordExposed\PasswordExposedChecker;
+use developeraamirkhan\LaravelPasswordExposedValidationRule\Factories\PasswordExposedCheckerFactory;
+use developeraamirkhan\PasswordExposed\Enums\PasswordStatus;
+use developeraamirkhan\PasswordExposed\PasswordExposedChecker;
 use Illuminate\Contracts\Validation\Rule;
 
 /**

@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\LaravelPasswordExposedValidationRule\Factories;
+namespace developeraamirkhan\LaravelPasswordExposedValidationRule\Factories;
 
 use DivineOmega\DOFileCachePSR6\CacheItemPool;
 use DivineOmega\PasswordExposed\PasswordExposedChecker;
